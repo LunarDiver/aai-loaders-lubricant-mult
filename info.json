@@ -1,0 +1,13 @@
+{
+    "name": "aai-loaders-lubricant-mult",
+    "version": "0.1.0",
+    "title": "AAI Loaders Lubricant Multiplier",
+    "description": "This mod allows you to specify a multiplier that will be applied to all loaders lubricant consumption.",
+    "author": "Lunardiver",
+    "contact": "dev@lunardiver.com",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base",
+        "aai-loaders >= 0.1.4"
+    ]
+}
